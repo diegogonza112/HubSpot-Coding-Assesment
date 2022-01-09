@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="pt-3" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.readline" />
+          <option value="int.truck_id" />
+          <option value="assignments.a1.starter_code.distance_map.DistanceMap" />
+          <option value="f" />
+          <option value="Public" />
+          <option value="Private" />
+          <option value="tuple.__setitem__" />
+          <option value="Concept.models.Post.objects" />
+          <option value="int.endswith" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
